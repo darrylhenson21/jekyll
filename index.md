@@ -13,4 +13,4 @@ This page was written in Markdown and rendered as a static website on Render.
 - Improved page performance
 - Prepared the next campaign
 
-<img src="{{ '/sample.webp' | relative_url }}" alt="Sample image">
+![Sample image](sample.webp)
