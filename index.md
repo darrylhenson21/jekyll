@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Quarterly Report
 ---
+
+# Quarterly Report
+
+This page was written in Markdown and rendered as a static website on Render.
+
+## Project Updates
+
+- Completed the website redesign
+- Improved page performance
+- Prepared the next campaign
